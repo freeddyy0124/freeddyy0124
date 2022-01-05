@@ -1,6 +1,5 @@
 ### Hey, this is my new profile and journey for my Software Engineering degree! 👋
 
-<!--
 **freeddyy0124/freeddyy0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/freddy-rodriguez-283a331a2/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love dogs
--->
