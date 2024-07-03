@@ -1,4 +1,4 @@
-<h1 alighn='center'>Hello, I am Freddy Rodriguez</h1>
+<h1 align='center'>Hello, I am Freddy Rodriguez</h1>
 <h3 align="center">A passionate Software Engineer in Dallas, Texas</h3>
 
 <h3 align="left">Connect with me:</h3>
