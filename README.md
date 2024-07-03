@@ -1,4 +1,5 @@
-<h3 align="center">A passionate Sofware Engineer in Dallas, Texas</h3>
+<h1>Hello, I am Freddy Rodriguez</h1>
+<h3 align="center">A passionate Software Engineer in Dallas, Texas</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
